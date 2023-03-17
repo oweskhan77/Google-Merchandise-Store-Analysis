@@ -7,3 +7,5 @@ Analyzing data and developing dashboards such as Google Market Analytics, Cohort
 
 
 Got the insights related to Revenue, Transactions, E-Commerce Conversion Rate, Sessions, Time on Screen, Order Value, Average Price, etc.
+
+## Google Analytics:
